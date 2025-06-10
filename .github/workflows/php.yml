@@ -2,9 +2,9 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ "main/ecommerce_site" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "main/ecommerce_site" ]
+    branches: [ "main" ]
 
 permissions:
   contents: read
